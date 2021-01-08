@@ -18,6 +18,8 @@
 .image {
   color:#000000;
 }
+.placeholder {
+}
 .vertical_line {
 }
 .iconfont {
@@ -26,6 +28,8 @@
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+.icon {
 }
 ._图像 {
 }
@@ -115,6 +119,8 @@
 .shape {
 }
 .flow_shape {
+}
+.table {
 }
 .box_11 {
 }
